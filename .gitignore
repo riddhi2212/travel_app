@@ -1,0 +1,8 @@
+build/
+.dart_tool/
+.packages
+android/local.properties
+ios/Pods/
+.idea/
+.vscode/
+pubspec.lock
